@@ -8,6 +8,8 @@ __pycache__/
 
 # Pycharm IDE
 .idea/
+__pycache__/
+*.pyc
 
 # Distribution / packaging
 .Python
